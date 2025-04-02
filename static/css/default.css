@@ -1,0 +1,23 @@
+body {
+    background-color: #dbd1cb;
+}
+
+header {
+    background-image: url('/static/assets/img/cafe-background.png');
+    background-repeat: no-repeat;
+    background-size: calc(max(1500px, 100%));
+    color: #69443c;
+}
+
+h1 {
+    font-family: serif;
+}
+
+a, a:hover {
+    color: initial;
+    text-decoration: none;
+}
+
+.cafe-info {
+    background-color: #b0a69b;
+}
